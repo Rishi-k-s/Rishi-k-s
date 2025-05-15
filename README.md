@@ -2,7 +2,7 @@
 - 🔭 I’m currently working on Making the world a better place
 - 🌱 I’m currently learning How to build computers with sand
 - 📫 How to reach me: rishikrishna.sr@gmail.com
-- _-_-_-_-_-_-
+
 <!--
 **Rishi-k-s/Rishi-k-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
