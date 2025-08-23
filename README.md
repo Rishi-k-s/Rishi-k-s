@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Making the world a better place
+- 🔭 HEHEHEHEHEEHEHE
 - 🌱 I’m currently learning How to build computers with sand
 - 📫 How to reach me: rishikrishna.sr@gmail.com
 
