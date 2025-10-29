@@ -2,6 +2,7 @@
 - 🔭 HEHEHEHEHEEHEHE
 - 🌱 I’m currently learning How to build computers with sand
 - 📫 How to reach me: rishikrishna.sr@gmail.com
+- [Website :)](https://rishikrishna.com)
 
 <!--
 **Rishi-k-s/Rishi-k-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
