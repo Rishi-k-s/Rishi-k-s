@@ -1,7 +1,7 @@
 ## Hi there 👋
 - 🔭 HEHEHEHEHEEHEHE
 - 🌱 I’m currently learning How to build computers with sand
-- 📫 How to reach me: rishikrishna.sr@gmail.com
+- 📫 How to reach me: rishi@rishikrishna.com
 - [Website :)](https://rishikrishna.com)
 
 <!--
